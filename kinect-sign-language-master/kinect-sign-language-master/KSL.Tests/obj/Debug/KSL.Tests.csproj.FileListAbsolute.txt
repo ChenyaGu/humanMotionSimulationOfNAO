@@ -1,0 +1,16 @@
+C:\Users\ruuser\documents\visual studio 2012\Projects\KinectSignLanguage\KSL.Tests\bin\Debug\KSL.Tests.dll
+C:\Users\ruuser\documents\visual studio 2012\Projects\KinectSignLanguage\KSL.Tests\bin\Debug\KSL.Tests.pdb
+C:\Users\ruuser\documents\visual studio 2012\Projects\KinectSignLanguage\KSL.Tests\bin\Debug\KSL.Gestures.dll
+C:\Users\ruuser\documents\visual studio 2012\Projects\KinectSignLanguage\KSL.Tests\bin\Debug\KSL.Gestures.pdb
+C:\Users\ruuser\documents\visual studio 2012\Projects\KinectSignLanguage\KSL.Tests\obj\Debug\KSL.Tests.csprojResolveAssemblyReference.cache
+C:\Users\ruuser\documents\visual studio 2012\Projects\KinectSignLanguage\KSL.Tests\obj\Debug\KSL.Tests.dll
+C:\Users\ruuser\documents\visual studio 2012\Projects\KinectSignLanguage\KSL.Tests\obj\Debug\KSL.Tests.pdb
+C:\Users\lulu\Desktop\kinect-sign-language-master\kinect-sign-language-master\KSL.Tests\bin\Debug\KSL.Tests.dll
+C:\Users\lulu\Desktop\kinect-sign-language-master\kinect-sign-language-master\KSL.Tests\bin\Debug\KSL.Tests.pdb
+C:\Users\lulu\Desktop\kinect-sign-language-master\kinect-sign-language-master\KSL.Tests\bin\Debug\KSL.Gestures.dll
+C:\Users\lulu\Desktop\kinect-sign-language-master\kinect-sign-language-master\KSL.Tests\bin\Debug\Microsoft.Kinect.dll
+C:\Users\lulu\Desktop\kinect-sign-language-master\kinect-sign-language-master\KSL.Tests\bin\Debug\KSL.Gestures.pdb
+C:\Users\lulu\Desktop\kinect-sign-language-master\kinect-sign-language-master\KSL.Tests\bin\Debug\Microsoft.Kinect.xml
+C:\Users\lulu\Desktop\kinect-sign-language-master\kinect-sign-language-master\KSL.Tests\obj\Debug\KSL.Tests.csprojResolveAssemblyReference.cache
+C:\Users\lulu\Desktop\kinect-sign-language-master\kinect-sign-language-master\KSL.Tests\obj\Debug\KSL.Tests.dll
+C:\Users\lulu\Desktop\kinect-sign-language-master\kinect-sign-language-master\KSL.Tests\obj\Debug\KSL.Tests.pdb

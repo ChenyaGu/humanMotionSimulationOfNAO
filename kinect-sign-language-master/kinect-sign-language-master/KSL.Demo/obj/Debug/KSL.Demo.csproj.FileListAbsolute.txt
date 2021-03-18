@@ -1,0 +1,79 @@
+C:\Users\ruuser\documents\visual studio 2012\Projects\KinectSignLanguage\KinectSignLanguage\bin\Debug\KSL.Demo.exe.config
+C:\Users\ruuser\documents\visual studio 2012\Projects\KinectSignLanguage\KinectSignLanguage\bin\Debug\KSL.Demo.exe
+C:\Users\ruuser\documents\visual studio 2012\Projects\KinectSignLanguage\KinectSignLanguage\bin\Debug\KSL.Demo.pdb
+C:\Users\ruuser\documents\visual studio 2012\Projects\KinectSignLanguage\KinectSignLanguage\bin\Debug\KSL.Gestures.dll
+C:\Users\ruuser\documents\visual studio 2012\Projects\KinectSignLanguage\KinectSignLanguage\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\ruuser\documents\visual studio 2012\Projects\KinectSignLanguage\KinectSignLanguage\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\ruuser\documents\visual studio 2012\Projects\KinectSignLanguage\KinectSignLanguage\bin\Debug\KSL.Gestures.pdb
+C:\Users\ruuser\documents\visual studio 2012\Projects\KinectSignLanguage\KinectSignLanguage\obj\Debug\KSL.Demo.csprojResolveAssemblyReference.cache
+C:\Users\ruuser\documents\visual studio 2012\Projects\KinectSignLanguage\KinectSignLanguage\obj\Debug\MainWindow.baml
+C:\Users\ruuser\documents\visual studio 2012\Projects\KinectSignLanguage\KinectSignLanguage\obj\Debug\MainWindow.g.cs
+C:\Users\ruuser\documents\visual studio 2012\Projects\KinectSignLanguage\KinectSignLanguage\obj\Debug\App.g.cs
+C:\Users\ruuser\documents\visual studio 2012\Projects\KinectSignLanguage\KinectSignLanguage\obj\Debug\KSL.Demo_MarkupCompile.cache
+C:\Users\ruuser\documents\visual studio 2012\Projects\KinectSignLanguage\KinectSignLanguage\obj\Debug\KSL.Demo.g.resources
+C:\Users\ruuser\documents\visual studio 2012\Projects\KinectSignLanguage\KinectSignLanguage\obj\Debug\KSL.Demo.Properties.Resources.resources
+C:\Users\ruuser\documents\visual studio 2012\Projects\KinectSignLanguage\KinectSignLanguage\obj\Debug\KSL.Demo.csproj.GenerateResource.Cache
+C:\Users\ruuser\documents\visual studio 2012\Projects\KinectSignLanguage\KinectSignLanguage\obj\Debug\KSL.Demo.exe
+C:\Users\ruuser\documents\visual studio 2012\Projects\KinectSignLanguage\KinectSignLanguage\obj\Debug\KSL.Demo.pdb
+C:\Users\ruuser\documents\visual studio 2012\Projects\KinectSignLanguage\KSL.Demo\bin\Debug\KSL.Demo.exe.config
+C:\Users\ruuser\documents\visual studio 2012\Projects\KinectSignLanguage\KSL.Demo\bin\Debug\KSL.Demo.exe
+C:\Users\ruuser\documents\visual studio 2012\Projects\KinectSignLanguage\KSL.Demo\bin\Debug\KSL.Demo.pdb
+C:\Users\ruuser\documents\visual studio 2012\Projects\KinectSignLanguage\KSL.Demo\bin\Debug\KSL.Gestures.dll
+C:\Users\ruuser\documents\visual studio 2012\Projects\KinectSignLanguage\KSL.Demo\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\ruuser\documents\visual studio 2012\Projects\KinectSignLanguage\KSL.Demo\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\ruuser\documents\visual studio 2012\Projects\KinectSignLanguage\KSL.Demo\bin\Debug\KSL.Gestures.pdb
+C:\Users\ruuser\documents\visual studio 2012\Projects\KinectSignLanguage\KSL.Demo\obj\Debug\KSL.Demo.csprojResolveAssemblyReference.cache
+C:\Users\ruuser\documents\visual studio 2012\Projects\KinectSignLanguage\KSL.Demo\obj\Debug\MainWindow.baml
+C:\Users\ruuser\documents\visual studio 2012\Projects\KinectSignLanguage\KSL.Demo\obj\Debug\MainWindow.g.cs
+C:\Users\ruuser\documents\visual studio 2012\Projects\KinectSignLanguage\KSL.Demo\obj\Debug\App.g.cs
+C:\Users\ruuser\documents\visual studio 2012\Projects\KinectSignLanguage\KSL.Demo\obj\Debug\KSL.Demo_MarkupCompile.cache
+C:\Users\ruuser\documents\visual studio 2012\Projects\KinectSignLanguage\KSL.Demo\obj\Debug\KSL.Demo.g.resources
+C:\Users\ruuser\documents\visual studio 2012\Projects\KinectSignLanguage\KSL.Demo\obj\Debug\KSL.Demo.Properties.Resources.resources
+C:\Users\ruuser\documents\visual studio 2012\Projects\KinectSignLanguage\KSL.Demo\obj\Debug\KSL.Demo.csproj.GenerateResource.Cache
+C:\Users\ruuser\documents\visual studio 2012\Projects\KinectSignLanguage\KSL.Demo\obj\Debug\KSL.Demo.exe
+C:\Users\ruuser\documents\visual studio 2012\Projects\KinectSignLanguage\KSL.Demo\obj\Debug\KSL.Demo.pdb
+D:\于明君\机器人导论\Kinect\kinect-sign-language-master\kinect-sign-language-master\KSL.Demo\bin\Debug\KSL.Demo.exe.config
+D:\于明君\机器人导论\Kinect\kinect-sign-language-master\kinect-sign-language-master\KSL.Demo\obj\Debug\KSL.Demo.exe
+D:\于明君\机器人导论\Kinect\kinect-sign-language-master\kinect-sign-language-master\KSL.Demo\obj\Debug\KSL.Demo.pdb
+D:\于明君\机器人导论\Kinect\kinect-sign-language-master\kinect-sign-language-master\KSL.Demo\obj\Debug\KSL.Demo.csprojResolveAssemblyReference.cache
+D:\于明君\机器人导论\Kinect\kinect-sign-language-master\kinect-sign-language-master\KSL.Demo\obj\Debug\MainWindow.baml
+D:\于明君\机器人导论\Kinect\kinect-sign-language-master\kinect-sign-language-master\KSL.Demo\obj\Debug\MainWindow.g.cs
+D:\于明君\机器人导论\Kinect\kinect-sign-language-master\kinect-sign-language-master\KSL.Demo\obj\Debug\App.g.cs
+D:\于明君\机器人导论\Kinect\kinect-sign-language-master\kinect-sign-language-master\KSL.Demo\obj\Debug\KSL.Demo_MarkupCompile.cache
+D:\于明君\机器人导论\Kinect\kinect-sign-language-master\kinect-sign-language-master\KSL.Demo\obj\Debug\KSL.Demo.g.resources
+D:\于明君\机器人导论\Kinect\kinect-sign-language-master\kinect-sign-language-master\KSL.Demo\obj\Debug\KSL.Demo.Properties.Resources.resources
+D:\于明君\机器人导论\Kinect\kinect-sign-language-master\kinect-sign-language-master\KSL.Demo\obj\Debug\KSL.Demo.csproj.GenerateResource.Cache
+C:\Users\lulu\Desktop\kinect-sign-language-master\kinect-sign-language-master\KSL.Demo\bin\Debug\KSL.Demo.exe.config
+C:\Users\lulu\Desktop\kinect-sign-language-master\kinect-sign-language-master\KSL.Demo\obj\Debug\KSL.Demo.exe
+C:\Users\lulu\Desktop\kinect-sign-language-master\kinect-sign-language-master\KSL.Demo\obj\Debug\KSL.Demo.pdb
+C:\Users\lulu\Desktop\kinect-sign-language-master\kinect-sign-language-master\KSL.Demo\bin\Debug\KSL.Demo.exe
+C:\Users\lulu\Desktop\kinect-sign-language-master\kinect-sign-language-master\KSL.Demo\bin\Debug\KSL.Demo.pdb
+C:\Users\lulu\Desktop\kinect-sign-language-master\kinect-sign-language-master\KSL.Demo\bin\Debug\KSL.Gestures.dll
+C:\Users\lulu\Desktop\kinect-sign-language-master\kinect-sign-language-master\KSL.Demo\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\lulu\Desktop\kinect-sign-language-master\kinect-sign-language-master\KSL.Demo\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\lulu\Desktop\kinect-sign-language-master\kinect-sign-language-master\KSL.Demo\bin\Debug\KSL.Gestures.pdb
+C:\Users\lulu\Desktop\kinect-sign-language-master\kinect-sign-language-master\KSL.Demo\obj\Debug\KSL.Demo.csprojResolveAssemblyReference.cache
+C:\Users\lulu\Desktop\kinect-sign-language-master\kinect-sign-language-master\KSL.Demo\obj\Debug\MainWindow.baml
+C:\Users\lulu\Desktop\kinect-sign-language-master\kinect-sign-language-master\KSL.Demo\obj\Debug\MainWindow.g.cs
+C:\Users\lulu\Desktop\kinect-sign-language-master\kinect-sign-language-master\KSL.Demo\obj\Debug\App.g.cs
+C:\Users\lulu\Desktop\kinect-sign-language-master\kinect-sign-language-master\KSL.Demo\obj\Debug\KSL.Demo_MarkupCompile.cache
+C:\Users\lulu\Desktop\kinect-sign-language-master\kinect-sign-language-master\KSL.Demo\obj\Debug\KSL.Demo.g.resources
+C:\Users\lulu\Desktop\kinect-sign-language-master\kinect-sign-language-master\KSL.Demo\obj\Debug\KSL.Demo.Properties.Resources.resources
+C:\Users\lulu\Desktop\kinect-sign-language-master\kinect-sign-language-master\KSL.Demo\obj\Debug\KSL.Demo.csproj.GenerateResource.Cache
+C:\Users\me_chenya\Desktop\kinect-sign-language-master\kinect-sign-language-master\KSL.Demo\bin\Debug\KSL.Demo.exe.config
+C:\Users\me_chenya\Desktop\kinect-sign-language-master\kinect-sign-language-master\KSL.Demo\obj\Debug\KSL.Demo.exe
+C:\Users\me_chenya\Desktop\kinect-sign-language-master\kinect-sign-language-master\KSL.Demo\obj\Debug\KSL.Demo.pdb
+C:\Users\me_chenya\Desktop\kinect-sign-language-master\kinect-sign-language-master\KSL.Demo\bin\Debug\KSL.Demo.exe
+C:\Users\me_chenya\Desktop\kinect-sign-language-master\kinect-sign-language-master\KSL.Demo\bin\Debug\KSL.Demo.pdb
+C:\Users\me_chenya\Desktop\kinect-sign-language-master\kinect-sign-language-master\KSL.Demo\bin\Debug\KSL.Gestures.dll
+C:\Users\me_chenya\Desktop\kinect-sign-language-master\kinect-sign-language-master\KSL.Demo\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\me_chenya\Desktop\kinect-sign-language-master\kinect-sign-language-master\KSL.Demo\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\me_chenya\Desktop\kinect-sign-language-master\kinect-sign-language-master\KSL.Demo\bin\Debug\KSL.Gestures.pdb
+C:\Users\me_chenya\Desktop\kinect-sign-language-master\kinect-sign-language-master\KSL.Demo\obj\Debug\KSL.Demo.csprojResolveAssemblyReference.cache
+C:\Users\me_chenya\Desktop\kinect-sign-language-master\kinect-sign-language-master\KSL.Demo\obj\Debug\MainWindow.baml
+C:\Users\me_chenya\Desktop\kinect-sign-language-master\kinect-sign-language-master\KSL.Demo\obj\Debug\MainWindow.g.cs
+C:\Users\me_chenya\Desktop\kinect-sign-language-master\kinect-sign-language-master\KSL.Demo\obj\Debug\App.g.cs
+C:\Users\me_chenya\Desktop\kinect-sign-language-master\kinect-sign-language-master\KSL.Demo\obj\Debug\KSL.Demo_MarkupCompile.cache
+C:\Users\me_chenya\Desktop\kinect-sign-language-master\kinect-sign-language-master\KSL.Demo\obj\Debug\KSL.Demo.g.resources
+C:\Users\me_chenya\Desktop\kinect-sign-language-master\kinect-sign-language-master\KSL.Demo\obj\Debug\KSL.Demo.Properties.Resources.resources
+C:\Users\me_chenya\Desktop\kinect-sign-language-master\kinect-sign-language-master\KSL.Demo\obj\Debug\KSL.Demo.csproj.GenerateResource.Cache

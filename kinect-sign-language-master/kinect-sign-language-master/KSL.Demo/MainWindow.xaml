@@ -1,0 +1,39 @@
+﻿<Window x:Class="KSL.Demo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:kv="clr-namespace:Microsoft.Samples.Kinect.WpfViewers;assembly=Microsoft.Samples.Kinect.WpfViewers"
+        Title="Kinect Sign Language :: beta"
+        Width="1366" Height="768" WindowStartupLocation="CenterScreen" WindowState="Maximized"
+        Background="#1c2022">
+    <Grid>         
+        <!--<Image
+            Source="images/backgound.png"
+            HorizontalAlignment="Center" Width="1500" Margin="-88,-188,-54,188" 
+            Stretch="UniformToFill"></Image>-->
+
+        <Grid HorizontalAlignment="Center" VerticalAlignment="Top" Width="640" Height="480" Margin="0, 10, 0, 0">
+            <kv:KinectDepthViewer x:Name="DepthViewer" KinectSensorManager="{Binding KinectSensorManager}" />
+            <Canvas>
+                <kv:KinectSkeletonViewer
+                    KinectSensorManager="{Binding KinectSensorManager}"
+                    Width="{Binding ElementName=DepthViewer, Path=ActualWidth}"
+                    Height="{Binding ElementName=DepthViewer, Path=ActualHeight}"
+                    ShowBones="True" ShowJoints="True" ShowCenter="True" ImageType="Depth" />
+            </Canvas>
+        </Grid>
+
+        <Grid Background="#2a3134" Width="1500" Height="100" VerticalAlignment="Bottom" HorizontalAlignment="Center" Margin="0, 0, 0, 100">
+            <TextBlock
+            Text="{Binding GestureBuilder}"
+            HorizontalAlignment="Center" VerticalAlignment="Center" Width="1000" Height="80"
+            TextAlignment="Center" FontSize="40" FontWeight="Bold" Foreground="#eceded" />
+        </Grid>
+
+        <Grid Background="#272c2e" Width="1500" Height="125" VerticalAlignment="Bottom" HorizontalAlignment="Center">
+            <TextBlock
+            Text="{Binding GestureSentence}"
+            HorizontalAlignment="Center" VerticalAlignment="Center"  Width="1000" Height="75"
+            TextAlignment="Center" FontSize="48" FontWeight="Bold" Foreground="#eceded" />
+        </Grid>  
+    </Grid>
+</Window>
